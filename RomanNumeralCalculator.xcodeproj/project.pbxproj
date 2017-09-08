@@ -207,7 +207,7 @@
 					};
 					A955D2AC1DEDDE6100018872 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = AT7S4C746C;
+						DevelopmentTeam = RLMXU9393M;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 835AEC8A1D80DD7F0046555C;
 					};
@@ -494,7 +494,7 @@
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = RLMXU9393M;
 				INFOPLIST_FILE = RomanNumeralCalculatorUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -511,7 +511,7 @@
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = RLMXU9393M;
 				INFOPLIST_FILE = RomanNumeralCalculatorUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
